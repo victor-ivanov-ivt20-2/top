@@ -4,7 +4,7 @@ import MyButton from "src/components/button";
 
 export default function Content() {
   return (
-    <div className="container">
+    <div>
       <h1 className="text-center text-5xl text-[#6F6953] mt-[80px]">
         Почему именно мы?
       </h1>
