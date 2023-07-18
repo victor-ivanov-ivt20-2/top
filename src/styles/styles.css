@@ -2,7 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 .background {
-    background-image: url("/static/back.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+  background-image: url("/static/back.jpg");
+  background-repeat: no-repeat;
+  background-color: rbga(0, 0, 0, 0.32);
+  background-size: cover;
 }
