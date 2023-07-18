@@ -1,7 +1,7 @@
-import {Header} from "src/components/screens/home/home.tsx";
+import Home from "src/components/screens/home.jsx";
 import { Mulish } from 'next/font/google'
 const mulish = Mulish({ subsets: ['latin'] })
 const MainPage = () => {
-  return <div><Header/></div>
+  return <div><Home/></div>
 };
 export default MainPage;
