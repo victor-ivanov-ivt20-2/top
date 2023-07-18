@@ -15,4 +15,4 @@ export default function Navbar() {
             <p className={'ml-5'}>Доставка</p>
         </div>
    )
-}   
+}

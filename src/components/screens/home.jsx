@@ -1,8 +1,4 @@
-import { Mulish } from 'next/font/google'
-import Logo from 'src/components/logo.jsx'
-import Image from 'next/image'
 import Navbar from 'src/components/navbar.jsx';
-const mulish = Mulish({ subsets: ['latin'] })
 export default function Home() {
     return (
         <div className={"background h-[780px] text-white text-lg relative"}>
